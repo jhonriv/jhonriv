@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm JhonRiv</h1>
 <h3 align="justify">I'm a backend developer from Venezuela with a passion for designing and building scalable, efficient systems that power modern web applications. I have expertise in programming languages like Java, Python, and Node.js and a strong focus on performance optimization and enhancing user experience. With a creative and diligent approach, I enjoy tackling new challenges and ensuring top-quality results.</h3>
 
-- 🔭 I’m currently working on [System CFPD](https://github.com/jhonriv-dev/SistemaCFPD)
-
 - 🌱 I’m currently learning **Django, .Net Core, English**
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/jhonriv](https://www.behance.net/jhonriv)
