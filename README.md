@@ -11,6 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/jhonriv-ve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhonriv-ve" height="30" width="40" /></a>
 <a href="https://www.behance.net/jhonriv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="jhonriv" height="30" width="40" /></a>
+<a href="https://api.whatsapp.com/send?phone=595986194711&text=Hola!%20te%20vi%20desde%20github%20y%20quiero%20contactarte!" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/512px-WhatsApp.svg.png" alt="jhonriv-ve" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
