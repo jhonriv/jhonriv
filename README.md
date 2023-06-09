@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm JhonRiv</h1>
 <h3 align="justify">I'm a backend developer from Venezuela with a passion for designing and building scalable, efficient systems that power modern web applications. I have expertise in programming languages like Node.js, C#, Python, and Java, and a strong focus on performance optimization and enhancing user experience. With a creative and diligent approach, I enjoy tackling new challenges and ensuring top-quality results.</h3>
 
-- 🌱 I’m currently learning **Django, .Net Core, English**
+- 🌱 I’m currently learning **English**
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/jhonriv](https://www.behance.net/jhonriv)
 
