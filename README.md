@@ -138,7 +138,7 @@
 
 <p>
     <img align="left"
-        src="https://github-readme-stats-jhonriv.vercel.app/api/top-langs?username=jhonriv&langs_count=10&size_weight=0&count_weight=1&show_icons=true&locale=en&layout=compact&theme=transparent"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonriv&langs_count=10&size_weight=0&count_weight=1&show_icons=true&locale=en&layout=compact&theme=transparent"
         alt="jhonriv" />
 </p>
 
