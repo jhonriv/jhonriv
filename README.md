@@ -1,6 +1,6 @@
-<a href="https://claude.ai/artifact/HDxaSAP4P1Tp4XzgtwfWr4"><img align="right" src="qr-perfil.png" width="130" alt="Código QR a mi perfil completo" /></a>
-
 # Jhonatan Rivero
+
+<a href="https://claude.ai/artifact/HDxaSAP4P1Tp4XzgtwfWr4"><img align="right" src="qr-perfil.png" width="130" alt="Código QR a mi perfil completo" /></a>
 
 **Tech Lead · Desarrollador Full Stack y Backend**
 
